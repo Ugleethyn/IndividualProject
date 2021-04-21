@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/menus/GroupAssignmentMenu.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/menus/CourseMenu.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/menus/StudentMenu.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/dao/StudentDAOImpl.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/dto/AllAssignPerCourseDTO.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/dto/AssPerCourPerStDTO.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/PrivateSchool/src/privateschool/dao/GroupAssignDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
